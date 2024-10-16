@@ -1,3 +1,4 @@
+```markdown
 # WeatherForecast 🌤️
 
 ![License](https://img.shields.io/github/license/Niranjan-Kumar-Singh/WeatherForecast)
@@ -8,6 +9,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Demo](#demo)
+  - [Live Link](#live-link)
   - [Screenshot](#screenshot)
   - [GIF Demo](#gif-demo)
 - [Technologies Used](#technologies-used)
@@ -16,7 +18,6 @@
   - [Steps](#steps)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -32,6 +33,10 @@ Welcome to **WeatherForecast**, a user-friendly web application that provides ac
 - **Forecast Details:** Includes temperature, humidity, wind speed, and more.
 
 ## Demo
+
+### Live Link
+
+Check out the live version of the application [here](https://w-forecasting.netlify.app).
 
 ### Screenshot
 
@@ -50,7 +55,7 @@ Welcome to **WeatherForecast**, a user-friendly web application that provides ac
 - **Frontend:** HTML, CSS, JavaScript
 - **APIs:** OpenWeatherMap API
 - **Version Control:** Git & GitHub
-- **Deployment:** [GitHub Pages](https://pages.github.com/) / [Netlify](https://www.netlify.com/) *(if applicable)*
+- **Deployment:** [Netlify](https://www.netlify.com/)
 
 ## Installation
 
@@ -140,86 +145,15 @@ Contributions are welcome! Follow these steps to contribute:
 
 6. **Open a Pull Request**
 
-Please ensure your code follows the project's coding standards and include relevant tests.
+Please ensure your code follows the project's coding standards and includes relevant tests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
 - **Niranjan Kumar Singh**
-- **Email:** niranjan@example.com
+- **Email:** [niranjansingh1419@gmail.com](mailto:niranjansingh1419@gmail.com)
 - **GitHub:** [Niranjan-Kumar-Singh](https://github.com/Niranjan-Kumar-Singh)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [Niranjan Kumar Singh](https://www.linkedin.com/in/niranjan-kumar-singh/)
 
 ---
-
-## 📋 Detailed Breakdown
-
-### 1. **Project Title and Badges**
-- **Title:** Clearly states the project name.
-- **Badges:** Display important information like license, stars, and forks to provide quick insights.
-
-### 2. **Table of Contents**
-- Helps users navigate the README easily.
-
-### 3. **Introduction**
-- Provides a brief overview of what the project does and its purpose.
-
-### 4. **Features**
-- Lists key functionalities to highlight what the project offers.
-
-### 5. **Demo**
-- **Screenshot:** Visual representation of the application's homepage.
-- **GIF Demo:** Animated demonstration showcasing the application's functionality.
-
-### 6. **Technologies Used**
-- Specifies the tools, languages, and platforms used in the project.
-
-### 7. **Installation**
-- **Prerequisites:** Lists the necessary tools and software required.
-- **Steps:** Step-by-step instructions to set up the project locally, including cloning the repository, installing dependencies, obtaining API keys, and running the application.
-
-### 8. **Usage**
-- Guides users on how to use the application effectively.
-
-### 9. **Contributing**
-- Encourages others to contribute by outlining the contribution process.
-
-### 10. **License**
-- Clearly states the licensing to inform users of their rights regarding the project.
-
-### 11. **Contact**
-- Provides ways for users to reach out for support or inquiries.
-
----
-
-## 🛠️ Additional Tips for Screenshots
-
-1. **Optimize Image Size:**
-   - Ensure that your screenshot is optimized for web to reduce load times. Tools like [TinyPNG](https://tinypng.com/) can help compress images without significant quality loss.
-
-2. **Use High-Resolution Images:**
-   - While optimizing is important, make sure the screenshot remains clear and legible, especially on high-resolution displays.
-
-3. **Highlight Key Areas:**
-   - Use annotations or highlights to draw attention to important features or sections in the screenshot.
-
-4. **Consistent Styling:**
-   - Maintain a consistent style across all images and screenshots to give your README a professional look.
-
-5. **Alternative Text:**
-   - Always include descriptive alt text for your images to improve accessibility.
-
-   ```markdown
-   ![Description of the image](./path-to-image.png)
-   ```
-
----
-
-## 🎉 Final Thoughts
-
-Including screenshots in your README enhances its visual appeal and provides immediate insight into what your application looks like. By following the structure above, your README will serve as a powerful tool to communicate the value and functionality of your WeatherForecast repository to anyone who visits it.
-
-Feel free to customize this template further to better fit your project's specifics. If you need more assistance or have additional questions about customizing your README, don't hesitate to ask!
+```
