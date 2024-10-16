@@ -1,4 +1,3 @@
-```markdown
 # WeatherForecast 🌤️
 
 ![License](https://img.shields.io/github/license/Niranjan-Kumar-Singh/WeatherForecast)
@@ -154,6 +153,3 @@ Please ensure your code follows the project's coding standards and includes rele
 - **Email:** [niranjansingh1419@gmail.com](mailto:niranjansingh1419@gmail.com)
 - **GitHub:** [Niranjan-Kumar-Singh](https://github.com/Niranjan-Kumar-Singh)
 - **LinkedIn:** [Niranjan Kumar Singh](https://www.linkedin.com/in/niranjan-kumar-singh/)
-
----
-```
