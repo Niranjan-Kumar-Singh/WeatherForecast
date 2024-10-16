@@ -1,6 +1,5 @@
 # WeatherForecast 🌤️
 
-![License](https://img.shields.io/github/license/Niranjan-Kumar-Singh/WeatherForecast)
 ![Stars](https://img.shields.io/github/stars/Niranjan-Kumar-Singh/WeatherForecast?style=social)
 ![Forks](https://img.shields.io/github/forks/Niranjan-Kumar-Singh/WeatherForecast?style=social)
 
